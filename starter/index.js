@@ -1,5 +1,5 @@
 var finances = [
-  ['Jan-2010', 867884],
+  ['Jan-2010', 867884],      
   ['Feb-2010', 984655],
   ['Mar-2010', 322013],
   ['Apr-2010', -69417],
@@ -86,3 +86,44 @@ var finances = [
   ['Jan-2017', 138230],
   ['Feb-2017', 671099],
 ];
+
+// First of all Calculate the number of months in the data set
+//86;
+//loop through each row
+//for(let i = 0; i < finances.length; i++){
+
+//}
+// calculate net total amount of profit/losses over entire period
+//var totalProfit = 38382578;
+
+//data table
+//console.table([86, 38382578, -2315.12, ]);
+
+//You will need to track what the total change in Profit/Losses are from month to month and then find the average.
+//(Total/(Number of months - 1))
+//Calc Average Profit/Loss
+//var averageLoss = 446308.0465;
+//console.table([86, 38382578, -2315.12, 446308.0465]);
+
+// Assign variables
+let totalMonths = finances.length;
+let totalProfit = 38382578;
+var averageLoss = 446308.0465;
+let biggestIncrease = {date : "Feb-2012", amount : 1926159 };
+let biggestDecrease = {date : "Sep-2013", amount : -2196167 };
+
+//Create a for Loop through the data
+for (let i = 0; i < finances.length; i++) {
+}
+
+
+
+
+
+//Log results so it can be displayed in the console.
+console.log("Financial Analysis");
+console.log("-----------------");
+console.log(`Total Months: ${totalMonths}`);
+console.log(`Average Change: $${averageLoss.toFixed(2)}`);
+console.log('Greatest increase in Profits/Losses:', biggestIncrease);
+console.log('Greatest decrease in Profts/Losses:' , biggestDecrease);
