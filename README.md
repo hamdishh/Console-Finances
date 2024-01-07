@@ -13,41 +13,7 @@ I wanted to play around with different js syntax and decided to use "let" more o
 ![Alt text](<Screenshot 2024-01-07 at 01.19.50-1.png>)
 
 
-
-### Technical Acceptance Criteria: 40%
-
-
-
 ## Deployment Link:
 
 https://hamdishh.github.io/Console-Finances/
 
-### Repository Quality: 23%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for variable naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-### Application Quality: 5%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-
-## Copyright
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
