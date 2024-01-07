@@ -2,7 +2,7 @@
 
 ## Description
 The Console Finances project displays a proficient understanding in using complex javascript language to analyse financial data to be printed in the console.
-In order to begin my code a new github repository that i linked in my submission was made on the github website and this repository named Console-Finances was then cloned locally 
+In order to begin my code a new github repository that i linked in my submission was made on the github website and this repository named Console-Finances was then cloned locally my desktop via the command git clone using the 
 
 
 ## Instructions
