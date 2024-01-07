@@ -6,10 +6,11 @@ In order to begin my code a new github repository that i linked in my submission
 
 
 ## Code Highlights/What I learnt during the challenge
-I wanted to play around with different js syntax and decided to use "let" more often than the standard "var" for my variable declarations.
+I wanted to play around with different js syntax and decided to use "let" more often than the standard "var" for my variable declarations. I learnt through google that the differences between the two were that let declarations are more restricted in the sense that they are block scoped whereas var declarations are less restricted and are globally scoped. In other words variables declared by let are only available inside the block where they are defined and variables declaring using var fully accessible throughout the function that they are declared. I also got more comfortable with for loops as I used it in my code to iterate through the data so every index could be analysed.
 
 
-## Grading Requirements
+## Sample Image
+![Alt text](<Screenshot 2024-01-07 at 01.19.50-1.png>)
 
 
 
